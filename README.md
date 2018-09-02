@@ -6,4 +6,7 @@
 <hr>
 
 ### [2018-9-2](https://blog.csdn.net/qq_34921856/article/details/79104788)
-- Hadoop+Spark大数据巨量分析与机器学习![](https://csdnimg.cn/release/download/old_static/images/hot_source.svg)
+- Hadoop+Spark大数据巨量分析与机器学习
+- eclipse操作详解视频教程【高清晰】
+- 10元淘宝购买的企业网站源码 企业模板 深红色大气 ASP.NET 带后台完整版本
+- 瓜子二手车网站源码
