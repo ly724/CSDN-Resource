@@ -3,6 +3,7 @@
 
 * **欢迎加入交流学习群——一个不low的群【689696631】**
 * **我的Blog：[mathor](https://www.wmathor.com)**
+* **每个星期天更新，每次只放前三的资源在主页展示，剩下的点击日期链接进入查看**
 <hr>
 
 ### [2018-9-2](https://blog.csdn.net/qq_34921856/article/details/79104788)
