@@ -8,5 +8,5 @@
 
 ### 2018-9-2
 - [Hadoop+Spark大数据巨量分析与机器学习](https://pan.baidu.com/s/1zzTBJPpv0pfjrFxAZlw5zA)
-- eclipse操作详解视频教程【高清晰】
-- 10元淘宝购买的企业网站源码 企业模板 深红色大气 ASP.NET 带后台完整版本
+- [人人商城V3 3.8.9全开源版无需授权](https://pan.baidu.com/s/1nDd0RR3J-reph3DoerBD0Q)
+- [30个算法程序整理](https://pan.baidu.com/s/1992xRMHBkA5J2YeDL4crQA)
