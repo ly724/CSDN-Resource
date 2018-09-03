@@ -9,4 +9,4 @@
 ### 2018-9-2
 - [Hadoop+Spark大数据巨量分析与机器学习](https://pan.baidu.com/s/1zzTBJPpv0pfjrFxAZlw5zA)
 - [人人商城V3 3.8.9全开源版无需授权](https://pan.baidu.com/s/1nDd0RR3J-reph3DoerBD0Q)
-- [30个算法程序整理](https://pan.baidu.com/s/1992xRMHBkA5J2YeDL4crQA)
+- [30个算法程序整理](https://pan.baidu.com/s/1xZufNzi2y1iH4lkkUfSjYA)
