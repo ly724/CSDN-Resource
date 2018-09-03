@@ -6,7 +6,7 @@
 * **每个星期天更新，每次会从CSDN一周排行榜上选取部分资源**
 <hr>
 
-### [2018-9-2](https://blog.csdn.net/qq_34921856/article/details/79104788)
-- Hadoop+Spark大数据巨量分析与机器学习
+### 2018-9-2
+- [Hadoop+Spark大数据巨量分析与机器学习](https://pan.baidu.com/s/1zzTBJPpv0pfjrFxAZlw5zA)
 - eclipse操作详解视频教程【高清晰】
 - 10元淘宝购买的企业网站源码 企业模板 深红色大气 ASP.NET 带后台完整版本
