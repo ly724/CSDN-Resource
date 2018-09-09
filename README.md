@@ -10,3 +10,7 @@
 - [Hadoop+Spark大数据巨量分析与机器学习](https://pan.baidu.com/s/1zzTBJPpv0pfjrFxAZlw5zA)
 - [人人商城V3 3.8.9全开源版无需授权](https://pan.baidu.com/s/1nDd0RR3J-reph3DoerBD0Q)
 - [30个算法程序整理](https://pan.baidu.com/s/1xZufNzi2y1iH4lkkUfSjYA)
+### 2018-9-9
+- [上百个js特效](https://pan.baidu.com/s/16cmKAudiyGcTH_DQTmxnlw)
+- [Matlab PCA+SVM人脸识别（包含GUI界面设计）](https://pan.baidu.com/s/1lr15oKt5K2Im7tcwN4eXpQ)
+- [深度学习框架TensorFlow学习与实践](https://github.com/dta0502/DeepLearning-Framework-TensorFlow-Learning-and-Application)
