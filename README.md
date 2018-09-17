@@ -14,3 +14,7 @@
 - [上百个js特效](https://pan.baidu.com/s/16cmKAudiyGcTH_DQTmxnlw)
 - [Matlab PCA+SVM人脸识别（包含GUI界面设计）](https://pan.baidu.com/s/1lr15oKt5K2Im7tcwN4eXpQ)
 - [深度学习框架TensorFlow学习与实践](https://github.com/dta0502/DeepLearning-Framework-TensorFlow-Learning-and-Application)
+### 2018-9-16
+- [Java模拟DDOS攻击](https://pan.baidu.com/s/1MS7LzEEYKeFyqU3wTRkvxw)
+- [OpenCV3编程入门](https://pan.baidu.com/s/1K320kstGt94leWsEVylH9g)
+- [关联规则算法Java实现](https://pan.baidu.com/s/1ghSMhbOzafYQ1ByLEVWSrg)
