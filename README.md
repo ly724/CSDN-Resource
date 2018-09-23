@@ -18,3 +18,7 @@
 - [Java模拟DDOS攻击](https://pan.baidu.com/s/1MS7LzEEYKeFyqU3wTRkvxw)
 - [OpenCV3编程入门](https://pan.baidu.com/s/1K320kstGt94leWsEVylH9g)
 - [关联规则算法Java实现](https://pan.baidu.com/s/1ghSMhbOzafYQ1ByLEVWSrg)
+### 2018-9-23
+- [python编程：从入门到实践](https://pan.baidu.com/s/14sw-NcA-4Qvau4f2LEmAWg)
+- [大话设计模式（带目录完整版）[中文PDF+源代码]](https://pan.baidu.com/s/1TsDDXntjyakdPNAvykbSYw)
+- [机器学习实战](https://pan.baidu.com/s/1gwHFwssq1ul_JVMO2ebRPg)
