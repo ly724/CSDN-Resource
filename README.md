@@ -22,7 +22,7 @@
 - [python编程：从入门到实践](https://pan.baidu.com/s/14sw-NcA-4Qvau4f2LEmAWg)
 - [大话设计模式（带目录完整版）[中文PDF+源代码]](https://pan.baidu.com/s/1TsDDXntjyakdPNAvykbSYw)
 - [机器学习实战](https://pan.baidu.com/s/1gwHFwssq1ul_JVMO2ebRPg)
-### 2018-9-23
+### 2018-9-30
 - [linux2.6.1内核源码注释](https://pan.baidu.com/s/1IHAwEfHYWDdD4XJzcJum6g)
 - [《Head First设计模式(高清版)》](https://pan.baidu.com/s/1-sPJ55F3of4eBSTQYGKi8A)
 - [网络数据挖掘大作业-垃圾短信识别系统设计](https://pan.baidu.com/s/1nxkshAQAInOlSTWAUZ7sfA)
