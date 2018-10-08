@@ -10,7 +10,7 @@
 - [Hadoop+Spark大数据巨量分析与机器学习](https://pan.baidu.com/s/1zzTBJPpv0pfjrFxAZlw5zA)
 - [人人商城V3 3.8.9全开源版无需授权](https://pan.baidu.com/s/1nDd0RR3J-reph3DoerBD0Q)
 - [30个算法程序整理](https://pan.baidu.com/s/1xZufNzi2y1iH4lkkUfSjYA)
-### 2018-9-9
+### 2018-9-09
 - [上百个js特效](https://pan.baidu.com/s/16cmKAudiyGcTH_DQTmxnlw)
 - [Matlab PCA+SVM人脸识别（包含GUI界面设计）](https://pan.baidu.com/s/1lr15oKt5K2Im7tcwN4eXpQ)
 - [深度学习框架TensorFlow学习与实践](https://github.com/dta0502/DeepLearning-Framework-TensorFlow-Learning-and-Application)
@@ -26,3 +26,7 @@
 - [linux2.6.1内核源码注释](https://pan.baidu.com/s/1IHAwEfHYWDdD4XJzcJum6g)
 - [《Head First设计模式(高清版)》](https://pan.baidu.com/s/1-sPJ55F3of4eBSTQYGKi8A)
 - [网络数据挖掘大作业-垃圾短信识别系统设计](https://pan.baidu.com/s/1nxkshAQAInOlSTWAUZ7sfA)
+### 2018-10-08
+- [杰思美VIP全网解析源码]https://pan.baidu.com/s/13DfP57pXqOWSiYyYi44KLA)
+- [北大青鸟超市订单管理系统](https://pan.baidu.com/s/1PasNqDBkAdTqUBeyQRUvwQ)
+- [DVWA-SQL盲注脚本（全）](https://pan.baidu.com/s/1JRWhErK2rHKALOnqoikMZw)
