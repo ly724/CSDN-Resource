@@ -27,6 +27,6 @@
 - [《Head First设计模式(高清版)》](https://pan.baidu.com/s/1-sPJ55F3of4eBSTQYGKi8A)
 - [网络数据挖掘大作业-垃圾短信识别系统设计](https://pan.baidu.com/s/1nxkshAQAInOlSTWAUZ7sfA)
 ### 2018-10-08
-- [杰思美VIP全网解析源码]https://pan.baidu.com/s/13DfP57pXqOWSiYyYi44KLA)
+- [杰思美VIP全网解析源码](https://pan.baidu.com/s/13DfP57pXqOWSiYyYi44KLA)
 - [北大青鸟超市订单管理系统](https://pan.baidu.com/s/1PasNqDBkAdTqUBeyQRUvwQ)
 - [DVWA-SQL盲注脚本（全）](https://pan.baidu.com/s/1JRWhErK2rHKALOnqoikMZw)
