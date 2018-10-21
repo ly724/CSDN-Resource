@@ -31,9 +31,9 @@
 - [北大青鸟超市订单管理系统](https://pan.baidu.com/s/1PasNqDBkAdTqUBeyQRUvwQ)
 - [DVWA-SQL盲注脚本（全）](https://pan.baidu.com/s/1JRWhErK2rHKALOnqoikMZw)
 ### 2018-10-14
-- [杰思美VIP全网解析源码](https://pan.baidu.com/s/13DfP57pXqOWSiYyYi44KLA)
-- [北大青鸟超市订单管理系统](https://pan.baidu.com/s/1PasNqDBkAdTqUBeyQRUvwQ)
-- [DVWA-SQL盲注脚本（全）](https://pan.baidu.com/s/1JRWhErK2rHKALOnqoikMZw)
+- [社工密码字典生成器](https://pan.baidu.com/s/1Avf_6IBnDc8oIYOc4f-S6A)
+- [sqlmap](https://pan.baidu.com/s/1liwfK8Vga4P7k76MlbaoVA)
+- [Burp suite破解版](https://pan.baidu.com/s/1uW_A1cBbGLp49W9JTXHYhA)
 ### 2018-10-21
 - [基于Web的在线考试系统](https://pan.baidu.com/s/1z0-NoN6Fp_qg3OU4IX4NLg)
 - [非常好看的若干个个登录界面](https://pan.baidu.com/s/1xLXGWe8XWEoXn6kI7RBjrg)
