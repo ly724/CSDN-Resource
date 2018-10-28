@@ -38,3 +38,7 @@
 - [基于Web的在线考试系统](https://pan.baidu.com/s/1z0-NoN6Fp_qg3OU4IX4NLg)
 - [非常好看的若干个个登录界面](https://pan.baidu.com/s/1xLXGWe8XWEoXn6kI7RBjrg)
 - [echarts 3d地图](https://pan.baidu.com/s/1OSl3qWdHkKlnPXupNFTFbQ)
+### 2018-10-28
+- [Java Web技术内幕](https://pan.baidu.com/s/1mN36-Hfy1FKw5H4G3IzMjg)
+- [极客时间：深入浅出区块链](https://pan.baidu.com/s/1EKk1CmMSpl2oWQs43L8vmw)
+- [2018大型分布式电商系统实战开发教程（视频+源码）](https://pan.baidu.com/s/1ALMjrwjFJ4UUPmm_WAlv7g)
